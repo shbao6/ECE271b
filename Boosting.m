@@ -1,3 +1,4 @@
+%% Using Boosting to make classification
 %% load dataset
 clc;
 clear all;
