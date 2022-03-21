@@ -1,4 +1,4 @@
-% Q5
+% PCA 
 clc;clear;
 % a)
 full_image = zeros(2500,240);
